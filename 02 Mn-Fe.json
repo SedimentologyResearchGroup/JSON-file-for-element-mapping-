@@ -1,0 +1,9 @@
+{
+    "calculations": [
+        {
+            "expression": "Mn55_ppm / Fe56_ppm",
+            "name": "Mn/Fe",
+            "type": 4
+        }
+    ]
+}

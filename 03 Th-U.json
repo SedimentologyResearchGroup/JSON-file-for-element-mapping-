@@ -1,0 +1,9 @@
+{
+    "calculations": [
+        {
+            "expression": "Th232_ppm / U238_ppm",
+            "name": "Th/U",
+            "type": 4
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "calculations": [
+        {
+            "expression": "Y89_ppm / Ho165_ppm",
+            "name": "Y/Ho",
+            "type": 4
+        },
+        {
+            "expression": "Ce140_ppm / 39.8 / (La139_ppm / 38.2 + Pr141_ppm / 8.83)",
+            "name": "Ce anomaly map",
+            "type": 4
+        }
+    ]
+}

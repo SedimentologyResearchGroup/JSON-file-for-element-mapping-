@@ -1,0 +1,9 @@
+{
+    "calculations": [
+        {
+            "expression": "Zn64_ppm / Fe56_ppm * 861.5",
+            "name": "Zn/Fe mol",
+            "type": 4
+        }
+    ]
+}
