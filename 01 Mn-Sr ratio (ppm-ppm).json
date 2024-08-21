@@ -1,7 +1,7 @@
 {
     "calculations": [
         {
-            "expression": "Mn55_ppm / Fe56_ppm",
+            "expression": "Mn55_ppm / Sr86_ppm",
             "name": "Mn/Sr ratio",
             "type": 4
         }
